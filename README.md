@@ -1,4 +1,4 @@
-# hello-world
+# hello-world-blynclight
 
 
-This is a test of the hello-world broadcast system. 
+This is a test of the blynclight broadcast system. 
